@@ -12,6 +12,7 @@
   - Java
   - Html/Css
   - PHP
+  - Arduino
   
 ## Project 
 

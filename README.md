@@ -9,11 +9,11 @@
 ## Project 
 
 Doing
-  - Game <Cheese Shot>
+  - Game [Cheese Shot]
   
 Done
-  - Web <Spur : Startup Platform>
-  - Web <Study Platform>
+  - Web [Spur : Startup Platform]
+  - Web [Study Platform]
   
 ## Study
  

@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[Profile]
+[Profile] 💻
   - Name : MinChan Kim
   - Work : Student at Kookmin Univ. Computer Science 21
-  - Goal : :Book: Security Specialist
+  - Goal : 📖 Security Specialist 📖
 
 ## Stack
   - C/C++

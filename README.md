@@ -1,9 +1,12 @@
-<h3 align="center"><b>💻 Profile 💻</b></h3>
+<h2><b>💻 Profile</b></h2>
+
   - Name : MinChan Kim
+  
   - Kookmin Univ. Computer Science 21
+  
   - 📖 Security Specialist 📖
 
-<h3 align="center"><b>🛠 Stack 🛠</b></h3>
+<h2><b>🛠 Stack 🛠</b></h2>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
@@ -16,10 +19,16 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-squaree&logo=Python&logoColor=white"></a> &nbsp
   
+  
+   
+## BOJ
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmc0487)](https://solved.ac/kmc0487/)
+
 ## Project 
 
 Doing
   - Game [Cheese Shot]
+  - Hackerton
   
 Done
   - Web [Spur : Startup Platform]
@@ -31,7 +40,3 @@ Doing
   - Algorith [알고리즘 문제 해결 전략]
   - Reversing
   - C/C++
-  - Hackerton
-  
-## BOJ
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmc0487)](https://solved.ac/kmc0487/)

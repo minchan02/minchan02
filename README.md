@@ -23,20 +23,3 @@
    
 ## BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmc0487)](https://solved.ac/kmc0487/)
-
-## Project 
-
-Doing
-  - Game [Cheese Shot]
-  - Hackerton
-  
-Done
-  - Web [Spur : Startup Platform]
-  - Web [Study Platform]
-  
-## Study
-
-Doing
-  - Algorithm [알고리즘 문제 해결 전략]
-  - Reversing
-  - C/C++

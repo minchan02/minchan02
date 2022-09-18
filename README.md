@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[Profile] 💻
+<h3 align="center"><b>💻 Profile 💻</b></h3>
   - Name : MinChan Kim
   - Kookmin Univ. Computer Science 21
   - 📖 Security Specialist 📖

@@ -24,7 +24,7 @@
 ## BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmc0487)](https://solved.ac/kmc0487/)
 
-## 📜 CAREAR
+## 📜 CAREER
 - 2019년 제 1회 한국코드페어 SW 빌더스 챌린지 정보과학회장상 수상 (2019. 08 ~ 2019. 11)
 - 국민대학교 소프트웨어학부 재학 (2021 ~)
 - 2022 군장병 공개 SW온라인 해커톤 공군참모총장상 수상 (2022. 09 ~ 2022. 11)

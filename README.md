@@ -19,7 +19,8 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-squaree&logo=Python&logoColor=white"></a> &nbsp
   
-  
+## BLOG
+[소소한 코딩 블로그](https://predic.tistory.com/)
    
 ## BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmc0487)](https://solved.ac/kmc0487/)

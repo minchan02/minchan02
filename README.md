@@ -1,6 +1,6 @@
 <h2><b>💻 Profile</b></h2>
 
-  - Name : MinChan Kim
+  - Predic
   
   - Kookmin Univ. Computer Science 21
   

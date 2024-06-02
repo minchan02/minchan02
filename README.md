@@ -4,7 +4,7 @@
   
   - Kookmin Univ. Computer Science 21
   
-  - 📖 Security Specialist 📖
+  - Web Application Security
 
 <h2><b>🛠 Stack 🛠</b></h2>
 </br>

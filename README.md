@@ -9,5 +9,5 @@ https://predic.kr</br>
 https://blog.predic.kr
 
 ## Contact
-- email : kmc0487@gmail.com or cmk0487@naver.com
+- email : kmc0487@gmail.com
 - discord : @predic02

@@ -1,6 +1,4 @@
 ## Whoami
-
-  - Predic
   - Web Application Security Researcher
   
 ## Link

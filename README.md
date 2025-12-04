@@ -1,10 +1,10 @@
-## WHOAMI
+## Whoami
 
   - Predic
   
   - Web Application Security Researcher
   
-## LINK
+## Link
 https://predic.kr</br>
 https://blog.predic.kr
 
